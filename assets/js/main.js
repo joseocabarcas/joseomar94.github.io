@@ -1,8 +1,4 @@
-jQuery(document).r0 with respect to paths you removed.
-Paths like 'css/font-awesome.min.css' that are
-removed from your working tree are ignored with this version of Git.
-
-eady(function($) {
+jQuery(document).ready(function($) {
 
 
     /*======= Skillset *=======*/
