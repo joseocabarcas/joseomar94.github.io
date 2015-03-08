@@ -22,6 +22,7 @@ jQuery(document).ready(function($) {
     /* Bootstrap Tooltip for Skillset */
     $('.level-label').tooltip();
     
+    $('[data-toggle="tooltip"]').tooltip();
     
 
 });
